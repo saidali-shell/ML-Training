@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+*.pkl
+
+# Data files
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
