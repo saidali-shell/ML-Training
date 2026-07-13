@@ -1,0 +1,31 @@
+# Python / virtual‑env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.VENV/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# HuggingFace cache (big model files)
+~/.cache/huggingface/
+.caches/
+.cache/
+.huggingface/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS / misc
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+outputs/
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+*.safetensors
+*.bin
