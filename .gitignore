@@ -29,3 +29,4 @@ Thumbs.db
 
 # Environment
 .env
+LSTM/household_power_consumption.txt 
