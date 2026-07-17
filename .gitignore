@@ -13,7 +13,8 @@ venv/
 *.pt
 *.pth
 *.pkl
-
+*.keras
+*.txt
 # Data files
 *.xlsx
 *.csv
